@@ -8,6 +8,9 @@
  This repository mainly contains python code to build simple calculator.
  It uses [tkinter](https://docs.python.org/3/library/tkinter.html) package which is the standard Python interface to the Tk GUI toolkit.
  
+ ## My Calculator
+ [img](calc.png)
+ 
  ## About Me 
  
  Omkar Atugade,<br>
